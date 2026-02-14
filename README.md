@@ -43,5 +43,6 @@ https://botometer.iuni.iu.edu/bot-repository/datasets.html
 3. Training_Data.csv - final, merged features for training the model
 4. MergingTrainingData (py) - code used to merge features
 5. RVMTrainingModel (py) - code for training the model, training model used : RVM with a linear kernel, testing accuracy : 81.25%
+6. this is my project
 
 
